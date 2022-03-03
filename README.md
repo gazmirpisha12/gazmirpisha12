@@ -1,6 +1,5 @@
 ### Hey 👋<h2> I'm Gazmir Pisha</h2>
 
-<img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
 
 <h3> About Me </h3>
 
