@@ -1,4 +1,4 @@
-### Hey 👋<h2> I'm Gazmir Pisha</h2>
+### Hey, I'm Gazmir Pisha
 
 
 <h3> About Me </h3>
